@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"serviceline",
+	"Hierarchies@Code.links":
+	[
+		"serviceline.hierarchies/serviceline.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('serviceline')/Hierarchies('serviceline')"
+	}
+}

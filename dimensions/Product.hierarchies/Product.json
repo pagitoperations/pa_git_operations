@@ -1,0 +1,195 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Product",
+	"Elements":
+	[
+		{
+			"Name":"Total Product",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Network",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Router",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Switch",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cords",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Hi-Fi",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Receiver",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5.1 Speaker System",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"7.1 Speaker System",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TV",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"< 32'",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"32' - 37'",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"38' - 42'",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"43' - 47'",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"48' - 55'",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"55' - 65'",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"> 65'",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Computers",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Notebook",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Monoblock",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Desktop",
+			"Type":"Numeric"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"Total Product",
+			"ComponentName":"Network",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Product",
+			"ComponentName":"Hi-Fi",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Product",
+			"ComponentName":"TV",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Product",
+			"ComponentName":"Computers",
+			"Weight":1
+		},
+		{
+			"ParentName":"Network",
+			"ComponentName":"Router",
+			"Weight":1
+		},
+		{
+			"ParentName":"Network",
+			"ComponentName":"Switch",
+			"Weight":1
+		},
+		{
+			"ParentName":"Network",
+			"ComponentName":"Cords",
+			"Weight":1
+		},
+		{
+			"ParentName":"Hi-Fi",
+			"ComponentName":"Receiver",
+			"Weight":1
+		},
+		{
+			"ParentName":"Hi-Fi",
+			"ComponentName":"5.1 Speaker System",
+			"Weight":1
+		},
+		{
+			"ParentName":"Hi-Fi",
+			"ComponentName":"7.1 Speaker System",
+			"Weight":1
+		},
+		{
+			"ParentName":"TV",
+			"ComponentName":"< 32'",
+			"Weight":1
+		},
+		{
+			"ParentName":"TV",
+			"ComponentName":"32' - 37'",
+			"Weight":1
+		},
+		{
+			"ParentName":"TV",
+			"ComponentName":"38' - 42'",
+			"Weight":1
+		},
+		{
+			"ParentName":"TV",
+			"ComponentName":"43' - 47'",
+			"Weight":1
+		},
+		{
+			"ParentName":"TV",
+			"ComponentName":"48' - 55'",
+			"Weight":1
+		},
+		{
+			"ParentName":"TV",
+			"ComponentName":"55' - 65'",
+			"Weight":1
+		},
+		{
+			"ParentName":"TV",
+			"ComponentName":"> 65'",
+			"Weight":1
+		},
+		{
+			"ParentName":"Computers",
+			"ComponentName":"Notebook",
+			"Weight":1
+		},
+		{
+			"ParentName":"Computers",
+			"ComponentName":"Monoblock",
+			"Weight":1
+		},
+		{
+			"ParentName":"Computers",
+			"ComponentName":"Desktop",
+			"Weight":1
+		}
+	],
+	"Subsets@Code.links":[]
+}

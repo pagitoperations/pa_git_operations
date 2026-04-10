@@ -1,0 +1,68 @@
+{
+	"@type":"Hierarchy",
+	"Name":"account1",
+	"Elements":
+	[
+		{
+			"Name":"Gross Margin%",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Price",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Units",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Sales",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Variable Costs",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Gross Margin",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"%test",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"test#",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"#test",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"测试 (test)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"其他测试 (other test)",
+			"Type":"Numeric"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"Gross Margin",
+			"ComponentName":"Sales",
+			"Weight":1
+		},
+		{
+			"ParentName":"Gross Margin",
+			"ComponentName":"Variable Costs",
+			"Weight":-1
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"account1.subsets/Set1.json"
+	]
+}

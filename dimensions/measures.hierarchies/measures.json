@@ -1,0 +1,15 @@
+{
+	"@type":"Hierarchy",
+	"Name":"measures",
+	"Elements":
+	[
+		{
+			"Name":"test1",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"measures.subsets/Subset1.json"
+	]
+}

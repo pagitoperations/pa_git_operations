@@ -1,0 +1,62 @@
+{
+	"@type":"Subset",
+	"Name":"© æ",
+	"Alias":"caption",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('region')/Hierarchies('region')/Elements('World')"
+		},
+		{
+			"@id":"Dimensions('region')/Hierarchies('region')/Elements('Europe')"
+		},
+		{
+			"@id":"Dimensions('region')/Hierarchies('region')/Elements('Scandinavia')"
+		},
+		{
+			"@id":"Dimensions('region')/Hierarchies('region')/Elements('Benelux')"
+		},
+		{
+			"@id":"Dimensions('region')/Hierarchies('region')/Elements('Islands')"
+		},
+		{
+			"@id":"Dimensions('region')/Hierarchies('region')/Elements('Central Europe')"
+		},
+		{
+			"@id":"Dimensions('region')/Hierarchies('region')/Elements('Iberia')"
+		},
+		{
+			"@id":"Dimensions('region')/Hierarchies('region')/Elements('Southern Europe')"
+		},
+		{
+			"@id":"Dimensions('region')/Hierarchies('region')/Elements('Americas')"
+		},
+		{
+			"@id":"Dimensions('region')/Hierarchies('region')/Elements('North America')"
+		},
+		{
+			"@id":"Dimensions('region')/Hierarchies('region')/Elements('Canada')"
+		},
+		{
+			"@id":"Dimensions('region')/Hierarchies('region')/Elements('Mexico')"
+		},
+		{
+			"@id":"Dimensions('region')/Hierarchies('region')/Elements('United States')"
+		},
+		{
+			"@id":"Dimensions('region')/Hierarchies('region')/Elements('South America')"
+		},
+		{
+			"@id":"Dimensions('region')/Hierarchies('region')/Elements('Argentina')"
+		},
+		{
+			"@id":"Dimensions('region')/Hierarchies('region')/Elements('Brazil')"
+		},
+		{
+			"@id":"Dimensions('region')/Hierarchies('region')/Elements('Chile')"
+		},
+		{
+			"@id":"Dimensions('region')/Hierarchies('region')/Elements('Uruguay')"
+		}
+	]
+}

@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"admin_public",
+	"Expression":"{[region].[region].[World],[region].[region].[Europe],[region].[region].[Scandinavia],[region].[region].[Benelux],[region].[region].[Islands],[region].[region].[Central Europe],[region].[region].[Iberia],[region].[region].[Southern Europe],[region].[region].[Americas],[region].[region].[North America],[region].[region].[Canada],[region].[region].[Mexico],[region].[region].[United States],[region].[region].[South America],[region].[region].[Argentina],[region].[region].[Brazil],[region].[region].[Chile],[region].[region].[Uruguay]}"
+}

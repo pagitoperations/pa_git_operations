@@ -1,0 +1,334 @@
+{
+	"@type":"Hierarchy",
+	"Name":"serviceline",
+	"Elements":
+	[
+		{
+			"Name":"Total Service Line",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"000000000101",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"000000000103",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"000000000105",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"000000000106",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"000000000107",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"000000000108",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"000000000109",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"000000000110",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"000000000111",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"000000000112",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"000000000113",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"000000000114",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"000000000118",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"000000000119",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"000000000120",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"000000000121",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"000000000122",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"000000000123",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"000000000124",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"000000000125",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"000000000126",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"000000000128",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"000000000129",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"000000000130",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"000000000131",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"000000000132",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"000000000137",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Hidden Service Line",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"000000000133",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"000000000134",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"000000000135",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"000000000136",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"000000000127",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"000000000199",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"000000000000",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"N/A",
+			"Type":"Numeric"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"Total Service Line",
+			"ComponentName":"000000000101",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Service Line",
+			"ComponentName":"000000000103",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Service Line",
+			"ComponentName":"000000000105",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Service Line",
+			"ComponentName":"000000000106",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Service Line",
+			"ComponentName":"000000000107",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Service Line",
+			"ComponentName":"000000000108",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Service Line",
+			"ComponentName":"000000000109",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Service Line",
+			"ComponentName":"000000000110",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Service Line",
+			"ComponentName":"000000000111",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Service Line",
+			"ComponentName":"000000000112",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Service Line",
+			"ComponentName":"000000000113",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Service Line",
+			"ComponentName":"000000000114",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Service Line",
+			"ComponentName":"000000000118",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Service Line",
+			"ComponentName":"000000000119",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Service Line",
+			"ComponentName":"000000000120",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Service Line",
+			"ComponentName":"000000000121",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Service Line",
+			"ComponentName":"000000000122",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Service Line",
+			"ComponentName":"000000000123",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Service Line",
+			"ComponentName":"000000000124",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Service Line",
+			"ComponentName":"000000000125",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Service Line",
+			"ComponentName":"000000000126",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Service Line",
+			"ComponentName":"000000000128",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Service Line",
+			"ComponentName":"000000000129",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Service Line",
+			"ComponentName":"000000000130",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Service Line",
+			"ComponentName":"000000000131",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Service Line",
+			"ComponentName":"000000000132",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Service Line",
+			"ComponentName":"000000000137",
+			"Weight":1
+		},
+		{
+			"ParentName":"Hidden Service Line",
+			"ComponentName":"000000000133",
+			"Weight":1
+		},
+		{
+			"ParentName":"Hidden Service Line",
+			"ComponentName":"000000000134",
+			"Weight":1
+		},
+		{
+			"ParentName":"Hidden Service Line",
+			"ComponentName":"000000000135",
+			"Weight":1
+		},
+		{
+			"ParentName":"Hidden Service Line",
+			"ComponentName":"000000000136",
+			"Weight":1
+		},
+		{
+			"ParentName":"Hidden Service Line",
+			"ComponentName":"000000000127",
+			"Weight":1
+		},
+		{
+			"ParentName":"Hidden Service Line",
+			"ComponentName":"000000000199",
+			"Weight":1
+		},
+		{
+			"ParentName":"Hidden Service Line",
+			"ComponentName":"000000000000",
+			"Weight":1
+		},
+		{
+			"ParentName":"Hidden Service Line",
+			"ComponentName":"N/A",
+			"Weight":1
+		}
+	],
+	"Subsets@Code.links":[]
+}

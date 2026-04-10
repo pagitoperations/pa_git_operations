@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"partial Europe and Americas",
+	"Expression":"{{DESCENDANTS([region].[region].[Scandinavia])},{DESCENDANTS([region].[region].[Central Europe])},{DESCENDANTS([region].[region].[Southern Europe])},{DESCENDANTS([region].[region].[Americas])}}"
+}

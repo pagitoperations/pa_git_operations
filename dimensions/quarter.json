@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"quarter",
+	"Hierarchies@Code.links":
+	[
+		"quarter.hierarchies/quarter.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('quarter')/Hierarchies('quarter')"
+	}
+}

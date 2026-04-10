@@ -1,0 +1,59 @@
+{
+	"@type":"Hierarchy",
+	"Name":"NL nLocation",
+	"Elements":
+	[
+		{
+			"Name":"San Diego",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CA",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"New York",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NY",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"San Jose",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Boston",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MA",
+			"Type":"Consolidated"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"CA",
+			"ComponentName":"San Diego",
+			"Weight":1
+		},
+		{
+			"ParentName":"CA",
+			"ComponentName":"San Jose",
+			"Weight":1
+		},
+		{
+			"ParentName":"NY",
+			"ComponentName":"New York",
+			"Weight":1
+		},
+		{
+			"ParentName":"MA",
+			"ComponentName":"Boston",
+			"Weight":1
+		}
+	],
+	"Subsets@Code.links":[]
+}

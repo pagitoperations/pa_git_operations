@@ -1,0 +1,6 @@
+{
+	"@type":"Subset",
+	"Name":"Subset Stove",
+	"Alias":"MEMBER_NAME",
+	"Expression":"{{DISTINCT({DESCENDANTS([NL nProduct].[NL nProduct].[Stoves])})}}"
+}

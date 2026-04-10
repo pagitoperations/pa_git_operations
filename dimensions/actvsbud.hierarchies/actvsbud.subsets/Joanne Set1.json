@@ -1,0 +1,14 @@
+{
+	"@type":"Subset",
+	"Name":"Joanne Set1",
+	"Alias":"MEMBER_NAME",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('actvsbud')/Hierarchies('actvsbud')/Elements('Actual')"
+		},
+		{
+			"@id":"Dimensions('actvsbud')/Hierarchies('actvsbud')/Elements('Budget')"
+		}
+	]
+}

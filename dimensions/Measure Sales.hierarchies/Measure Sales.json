@@ -1,0 +1,16 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Measure Sales",
+	"Elements":
+	[
+		{
+			"Name":"Date",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Date No Format",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":[]
+}

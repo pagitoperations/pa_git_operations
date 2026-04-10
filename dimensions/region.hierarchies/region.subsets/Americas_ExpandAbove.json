@@ -1,0 +1,6 @@
+{
+	"@type":"Subset",
+	"Name":"Americas_ExpandAbove",
+	"ExpandAbove":true,
+	"Expression":"{{DRILLDOWNMEMBER({[region].[region].[Americas]}, {[region].[region].[Americas]}, RECURSIVE)}}"
+}

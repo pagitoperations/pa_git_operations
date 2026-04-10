@@ -1,0 +1,16 @@
+{
+	"@type":"Hierarchy",
+	"Name":"cfo",
+	"Elements":
+	[
+		{
+			"Name":"cfo1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"cfo2",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":[]
+}

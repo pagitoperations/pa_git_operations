@@ -1,0 +1,51 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Channel",
+	"Elements":
+	[
+		{
+			"Name":"Total Channel",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Online",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Post",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Telephone",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Retail",
+			"Type":"Numeric"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"Total Channel",
+			"ComponentName":"Online",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Channel",
+			"ComponentName":"Post",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Channel",
+			"ComponentName":"Telephone",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Channel",
+			"ComponentName":"Retail",
+			"Weight":1
+		}
+	],
+	"Subsets@Code.links":[]
+}

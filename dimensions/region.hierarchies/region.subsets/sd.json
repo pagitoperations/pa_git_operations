@@ -1,0 +1,6 @@
+{
+	"@type":"Subset",
+	"Name":"sd",
+	"Alias":"caption",
+	"Expression":"{DRILLDOWNMEMBER({[region].[region].[Scandinavia]} , {[region].[region].[Scandinavia]} , RECURSIVE)}"
+}

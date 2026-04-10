@@ -1,0 +1,14 @@
+{
+	"@type":"Subset",
+	"Name":"test_set",
+	"Alias":"MEMBER_NAME",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('month')/Hierarchies('month')/Elements('1 Quarter')"
+		},
+		{
+			"@id":"Dimensions('month')/Hierarchies('month')/Elements('1 Quarter')"
+		}
+	]
+}

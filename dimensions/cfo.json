@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"cfo",
+	"Hierarchies@Code.links":
+	[
+		"cfo.hierarchies/cfo.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('cfo')/Hierarchies('cfo')"
+	}
+}

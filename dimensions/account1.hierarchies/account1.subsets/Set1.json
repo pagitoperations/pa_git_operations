@@ -1,0 +1,17 @@
+{
+	"@type":"Subset",
+	"Name":"Set1",
+	"Alias":"MEMBER_NAME",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('account1')/Hierarchies('account1')/Elements('Gross Margin%25')"
+		},
+		{
+			"@id":"Dimensions('account1')/Hierarchies('account1')/Elements('Price')"
+		},
+		{
+			"@id":"Dimensions('account1')/Hierarchies('account1')/Elements('Units')"
+		}
+	]
+}

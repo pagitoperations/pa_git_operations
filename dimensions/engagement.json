@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"engagement",
+	"Hierarchies@Code.links":
+	[
+		"engagement.hierarchies/engagement.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('engagement')/Hierarchies('engagement')"
+	}
+}

@@ -1,0 +1,517 @@
+{
+	"@type":"Hierarchy",
+	"Name":"NL nProduct",
+	"Elements":
+	[
+		{
+			"Name":"AcmeWash MR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Acme",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Dishwashers",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"AutoWash GL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AutoKitchen",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"GenAStove XL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Gen A Ltd",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Stoves",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"AutoWave S",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Microwaves",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"HotBox Pro",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"USAppliance",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"WaveCook Elite",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"KWash Mk1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"KitchenWare",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"KWave Mk2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"StoveTop Mk2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AutoWave GL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HotBox Master",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"WaveCook Master",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AcmeWash",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GenAStove",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"StoveTop Mk1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AcmeCook MR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"KWash Mk2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GenAWave",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HotBox Elite",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AcmeCook HE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AcmeWash HE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"StoveTop Mk3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DripDry Pro",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GenADish XL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"KWave Mk1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"KWave Mk3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AutoStove CT",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DripDry Elite",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AcmeCook",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AcmeWave MR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AutoWash S",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GenADish",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AcmeWave",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"KWash Mk3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AutoStove HT",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GenADish XR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DripDry Master",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AcmeWave HE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GenAStove XR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AutoWash LE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AutoWave LE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AutoStove QR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GenAWave XL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"WaveCook Pro",
+			"Type":"Numeric"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"Acme",
+			"ComponentName":"AcmeWash MR",
+			"Weight":1
+		},
+		{
+			"ParentName":"Acme",
+			"ComponentName":"AcmeWash",
+			"Weight":1
+		},
+		{
+			"ParentName":"Acme",
+			"ComponentName":"AcmeCook MR",
+			"Weight":1
+		},
+		{
+			"ParentName":"Acme",
+			"ComponentName":"AcmeCook HE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Acme",
+			"ComponentName":"AcmeWash HE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Acme",
+			"ComponentName":"AcmeCook",
+			"Weight":1
+		},
+		{
+			"ParentName":"Acme",
+			"ComponentName":"AcmeWave MR",
+			"Weight":1
+		},
+		{
+			"ParentName":"Acme",
+			"ComponentName":"AcmeWave",
+			"Weight":1
+		},
+		{
+			"ParentName":"Acme",
+			"ComponentName":"AcmeWave HE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Dishwashers",
+			"ComponentName":"Acme",
+			"Weight":1
+		},
+		{
+			"ParentName":"Dishwashers",
+			"ComponentName":"AutoKitchen",
+			"Weight":1
+		},
+		{
+			"ParentName":"Dishwashers",
+			"ComponentName":"KitchenWare",
+			"Weight":1
+		},
+		{
+			"ParentName":"Dishwashers",
+			"ComponentName":"USAppliance",
+			"Weight":1
+		},
+		{
+			"ParentName":"Dishwashers",
+			"ComponentName":"Gen A Ltd",
+			"Weight":1
+		},
+		{
+			"ParentName":"AutoKitchen",
+			"ComponentName":"AutoWash GL",
+			"Weight":1
+		},
+		{
+			"ParentName":"AutoKitchen",
+			"ComponentName":"AutoWave S",
+			"Weight":1
+		},
+		{
+			"ParentName":"AutoKitchen",
+			"ComponentName":"AutoWave GL",
+			"Weight":1
+		},
+		{
+			"ParentName":"AutoKitchen",
+			"ComponentName":"AutoStove CT",
+			"Weight":1
+		},
+		{
+			"ParentName":"AutoKitchen",
+			"ComponentName":"AutoWash S",
+			"Weight":1
+		},
+		{
+			"ParentName":"AutoKitchen",
+			"ComponentName":"AutoStove HT",
+			"Weight":1
+		},
+		{
+			"ParentName":"AutoKitchen",
+			"ComponentName":"AutoWash LE",
+			"Weight":1
+		},
+		{
+			"ParentName":"AutoKitchen",
+			"ComponentName":"AutoWave LE",
+			"Weight":1
+		},
+		{
+			"ParentName":"AutoKitchen",
+			"ComponentName":"AutoStove QR",
+			"Weight":1
+		},
+		{
+			"ParentName":"Gen A Ltd",
+			"ComponentName":"GenAStove XL",
+			"Weight":1
+		},
+		{
+			"ParentName":"Gen A Ltd",
+			"ComponentName":"GenAStove",
+			"Weight":1
+		},
+		{
+			"ParentName":"Gen A Ltd",
+			"ComponentName":"GenAWave",
+			"Weight":1
+		},
+		{
+			"ParentName":"Gen A Ltd",
+			"ComponentName":"GenADish XL",
+			"Weight":1
+		},
+		{
+			"ParentName":"Gen A Ltd",
+			"ComponentName":"GenADish",
+			"Weight":1
+		},
+		{
+			"ParentName":"Gen A Ltd",
+			"ComponentName":"GenADish XR",
+			"Weight":1
+		},
+		{
+			"ParentName":"Gen A Ltd",
+			"ComponentName":"GenAStove XR",
+			"Weight":1
+		},
+		{
+			"ParentName":"Gen A Ltd",
+			"ComponentName":"GenAWave XL",
+			"Weight":1
+		},
+		{
+			"ParentName":"Stoves",
+			"ComponentName":"Gen A Ltd",
+			"Weight":1
+		},
+		{
+			"ParentName":"Stoves",
+			"ComponentName":"USAppliance",
+			"Weight":1
+		},
+		{
+			"ParentName":"Stoves",
+			"ComponentName":"KitchenWare",
+			"Weight":1
+		},
+		{
+			"ParentName":"Stoves",
+			"ComponentName":"Acme",
+			"Weight":1
+		},
+		{
+			"ParentName":"Stoves",
+			"ComponentName":"AutoKitchen",
+			"Weight":1
+		},
+		{
+			"ParentName":"Microwaves",
+			"ComponentName":"AutoKitchen",
+			"Weight":1
+		},
+		{
+			"ParentName":"Microwaves",
+			"ComponentName":"USAppliance",
+			"Weight":1
+		},
+		{
+			"ParentName":"Microwaves",
+			"ComponentName":"KitchenWare",
+			"Weight":1
+		},
+		{
+			"ParentName":"Microwaves",
+			"ComponentName":"Gen A Ltd",
+			"Weight":1
+		},
+		{
+			"ParentName":"Microwaves",
+			"ComponentName":"Acme",
+			"Weight":1
+		},
+		{
+			"ParentName":"USAppliance",
+			"ComponentName":"HotBox Pro",
+			"Weight":1
+		},
+		{
+			"ParentName":"USAppliance",
+			"ComponentName":"WaveCook Elite",
+			"Weight":1
+		},
+		{
+			"ParentName":"USAppliance",
+			"ComponentName":"HotBox Master",
+			"Weight":1
+		},
+		{
+			"ParentName":"USAppliance",
+			"ComponentName":"WaveCook Master",
+			"Weight":1
+		},
+		{
+			"ParentName":"USAppliance",
+			"ComponentName":"HotBox Elite",
+			"Weight":1
+		},
+		{
+			"ParentName":"USAppliance",
+			"ComponentName":"DripDry Pro",
+			"Weight":1
+		},
+		{
+			"ParentName":"USAppliance",
+			"ComponentName":"DripDry Elite",
+			"Weight":1
+		},
+		{
+			"ParentName":"USAppliance",
+			"ComponentName":"DripDry Master",
+			"Weight":1
+		},
+		{
+			"ParentName":"USAppliance",
+			"ComponentName":"WaveCook Pro",
+			"Weight":1
+		},
+		{
+			"ParentName":"KitchenWare",
+			"ComponentName":"KWash Mk1",
+			"Weight":1
+		},
+		{
+			"ParentName":"KitchenWare",
+			"ComponentName":"KWave Mk2",
+			"Weight":1
+		},
+		{
+			"ParentName":"KitchenWare",
+			"ComponentName":"StoveTop Mk2",
+			"Weight":1
+		},
+		{
+			"ParentName":"KitchenWare",
+			"ComponentName":"StoveTop Mk1",
+			"Weight":1
+		},
+		{
+			"ParentName":"KitchenWare",
+			"ComponentName":"KWash Mk2",
+			"Weight":1
+		},
+		{
+			"ParentName":"KitchenWare",
+			"ComponentName":"StoveTop Mk3",
+			"Weight":1
+		},
+		{
+			"ParentName":"KitchenWare",
+			"ComponentName":"KWave Mk1",
+			"Weight":1
+		},
+		{
+			"ParentName":"KitchenWare",
+			"ComponentName":"KWave Mk3",
+			"Weight":1
+		},
+		{
+			"ParentName":"KitchenWare",
+			"ComponentName":"KWash Mk3",
+			"Weight":1
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"NL nProduct.subsets/Subset Stove.json"
+	]
+}

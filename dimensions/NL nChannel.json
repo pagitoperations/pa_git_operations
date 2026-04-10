@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"NL nChannel",
+	"Hierarchies@Code.links":
+	[
+		"NL nChannel.hierarchies/NL nChannel.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('NL nChannel')/Hierarchies('NL nChannel')"
+	}
+}

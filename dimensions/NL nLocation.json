@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"NL nLocation",
+	"Hierarchies@Code.links":
+	[
+		"NL nLocation.hierarchies/NL nLocation.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('NL nLocation')/Hierarchies('NL nLocation')"
+	}
+}

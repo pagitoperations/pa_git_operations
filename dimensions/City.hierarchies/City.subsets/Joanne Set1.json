@@ -1,0 +1,23 @@
+{
+	"@type":"Subset",
+	"Name":"Joanne Set1",
+	"Alias":"MEMBER_NAME",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('City')/Hierarchies('City')/Elements('ACT')"
+		},
+		{
+			"@id":"Dimensions('City')/Hierarchies('City')/Elements('NSW')"
+		},
+		{
+			"@id":"Dimensions('City')/Hierarchies('City')/Elements('NT')"
+		},
+		{
+			"@id":"Dimensions('City')/Hierarchies('City')/Elements('QLD')"
+		},
+		{
+			"@id":"Dimensions('City')/Hierarchies('City')/Elements('SA')"
+		}
+	]
+}

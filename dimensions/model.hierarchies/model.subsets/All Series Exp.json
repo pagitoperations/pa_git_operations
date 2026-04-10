@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"All Series Exp",
+	"Expression":"TM1SubsetAll([model])"
+}

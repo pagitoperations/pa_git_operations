@@ -1,0 +1,71 @@
+{
+	"@type":"Hierarchy",
+	"Name":"measure",
+	"Elements":
+	[
+		{
+			"Name":"R 1000",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"R90903",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"R90909",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"R90910",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"R 1001",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"D",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GB",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"US",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"last_import_date",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ConElem",
+			"Type":"Consolidated"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"R 1001",
+			"ComponentName":"R90903",
+			"Weight":1
+		},
+		{
+			"ParentName":"R 1001",
+			"ComponentName":"R90909",
+			"Weight":1
+		},
+		{
+			"ParentName":"R 1001",
+			"ComponentName":"R90910",
+			"Weight":1
+		},
+		{
+			"ParentName":"ConElem",
+			"ComponentName":"last_import_date",
+			"Weight":3
+		}
+	],
+	"Subsets@Code.links":[]
+}

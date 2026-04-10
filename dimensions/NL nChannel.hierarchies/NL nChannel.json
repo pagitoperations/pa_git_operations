@@ -1,0 +1,28 @@
+{
+	"@type":"Hierarchy",
+	"Name":"NL nChannel",
+	"Elements":
+	[
+		{
+			"Name":"Builders",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Furniture",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Department",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Rental",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Home",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":[]
+}

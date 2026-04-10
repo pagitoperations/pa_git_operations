@@ -1,0 +1,19 @@
+{
+	"@type":"Subset",
+	"Name":"testset",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('region')/Hierarchies('region')/Elements('Canada')"
+		},
+		{
+			"@id":"Dimensions('region')/Hierarchies('region')/Elements('Brazil')"
+		},
+		{
+			"@id":"Dimensions('region')/Hierarchies('region')/Elements('Belgium')"
+		},
+		{
+			"@id":"Dimensions('region')/Hierarchies('region')/Elements('Argentina')"
+		}
+	]
+}

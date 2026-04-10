@@ -1,0 +1,6 @@
+{
+	"@type":"Subset",
+	"Name":"curmonth",
+	"Alias":"MEMBER_NAME",
+	"Expression":"{{TM1FILTERBYPATTERN(TM1SubsetAll([month].[month]),\"*Jun*\")}}"
+}

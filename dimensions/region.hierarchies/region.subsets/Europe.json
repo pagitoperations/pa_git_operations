@@ -1,0 +1,6 @@
+{
+	"@type":"Subset",
+	"Name":"Europe",
+	"Alias":"Caption",
+	"Expression":"{DRILLDOWNMEMBER(DESCENDANTS({[region].[region].DEFAULTMEMBER} , 1 , SELF_AND_BEFORE) , {[region].[region].[Europe],[region].[region].[Southern Europe]} , RECURSIVE)}"
+}
