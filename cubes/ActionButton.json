@@ -1,0 +1,14 @@
+{
+	"@type":"Cube",
+	"Name":"ActionButton",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('account')"
+		},
+		{
+			"@id":"Dimensions('location')"
+		}
+	],
+	"Views@Code.links":[]
+}
