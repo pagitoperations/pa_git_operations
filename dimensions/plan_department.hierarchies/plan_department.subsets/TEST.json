@@ -1,0 +1,6 @@
+{
+	"@type":"Subset",
+	"Name":"TEST",
+	"Alias":"Department",
+	"Expression":"{TM1TOGGLEDRILLSTATE(HIERARCHIZE(TM1SUBSETALL([plan_department])) , {[plan_department].[plan_department].[100],[plan_department].[plan_department].[400]} , EXPAND_BELOW , RECURSIVE),TM1TOGGLEDRILLSTATE({[plan_department].[plan_department].[100]} , {[plan_department].[plan_department].[100]} , EXPAND_BELOW , RECURSIVE)}"
+}

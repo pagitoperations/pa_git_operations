@@ -1,0 +1,6 @@
+{
+	"@type":"Subset",
+	"Name":"test",
+	"Alias":"AccountName",
+	"Expression":"{TM1SUBSETALL([plan_chart_of_accounts])}"
+}

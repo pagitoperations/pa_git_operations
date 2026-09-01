@@ -1,0 +1,16 @@
+{
+	"@type":"Hierarchy",
+	"Name":"TVT",
+	"Elements":
+	[
+		{
+			"Name":"m1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"m2",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":[]
+}

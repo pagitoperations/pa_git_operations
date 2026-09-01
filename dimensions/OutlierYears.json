@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"OutlierYears",
+	"Hierarchies@Code.links":
+	[
+		"OutlierYears.hierarchies/OutlierYears.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('OutlierYears')/Hierarchies('OutlierYears')"
+	}
+}

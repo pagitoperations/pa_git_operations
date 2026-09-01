@@ -1,0 +1,56 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Trends",
+	"Elements":
+	[
+		{
+			"Name":"Trend Up",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Trend Down",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Trend Flat",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Trend Mix",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Trend Up Down",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Trend Down Up",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Trend Pattern",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Trend Step",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"No Data",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"No Data - Begin",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Skip Data",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Negative Data",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":[]
+}

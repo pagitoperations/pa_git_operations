@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"stringdim1",
+	"Hierarchies@Code.links":
+	[
+		"stringdim1.hierarchies/stringdim1.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('stringdim1')/Hierarchies('stringdim1')"
+	}
+}

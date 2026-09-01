@@ -1,0 +1,37 @@
+{
+	"@type":"Hierarchy",
+	"Name":"currency",
+	"Elements":
+	[
+		{
+			"Name":"Dollar",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Test",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"test1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TT",
+			"Type":"Consolidated"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"Test",
+			"ComponentName":"TT",
+			"Weight":1
+		},
+		{
+			"ParentName":"TT",
+			"ComponentName":"test1",
+			"Weight":1
+		}
+	],
+	"Subsets@Code.links":[]
+}

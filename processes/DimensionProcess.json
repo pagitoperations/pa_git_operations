@@ -1,0 +1,33 @@
+{
+	"@type":"Process",
+	"Name":"DimensionProcess",
+	"HasSecurityAccess":false,
+	"Code@Code.link":"DimensionProcess.ti",
+	"DataSource":
+	{
+		"Type":"None"
+	},
+	"Parameters":
+	[
+		{
+			"Name":"pParent",
+			"Prompt":"",
+			"Value":"",
+			"Type":"String"
+		},
+		{
+			"Name":"pNewNumber",
+			"Prompt":"",
+			"Value":"",
+			"Type":"String"
+		},
+		{
+			"Name":"pNewName",
+			"Prompt":"",
+			"Value":"",
+			"Type":"String"
+		}
+	],
+	"Variables":[],
+	"UID": "178023105900015"
+}

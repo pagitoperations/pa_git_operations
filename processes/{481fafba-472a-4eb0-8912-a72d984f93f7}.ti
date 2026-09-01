@@ -1,0 +1,23 @@
+#region Prolog
+MinorErrorLogMax = -1;
+OnMinorErrorDoItemSkip = 1;
+SetInputCharacterSet('TM1CS_UTF8');
+vType='S';
+vWeightNum=1.0;
+
+#endregion
+#region Metadata
+If(vLevel0@<>'');
+If(vLevel1@<>'');
+If(HierarchyElementExists('100members','Leaves',vLevel1)=1);
+StringToNumber('IMPERROR_CL_'|vLevel1);
+EndIf;
+HierarchyElementInsert('100members','100members','',vLevel1,'C');
+EndIf;
+HierarchyElementInsert('100members','100members','',vLevel0,vType);
+If(vLevel1@<>'');
+HierarchyElementComponentAdd('100members','100members',vLevel1,vLevel0,vWeightNum);
+EndIf;
+EndIf;
+
+#endregion

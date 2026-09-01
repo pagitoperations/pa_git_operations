@@ -1,0 +1,6 @@
+{
+	"@type":"Subset",
+	"Name":"FunctionalTest-1460645600419",
+	"Alias":"Department",
+	"Expression":"{ HIERARCHIZE( {TM1SUBSETALL( [plan_department] )} ) }"
+}

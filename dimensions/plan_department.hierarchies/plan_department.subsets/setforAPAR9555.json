@@ -1,0 +1,11 @@
+{
+	"@type":"Subset",
+	"Name":"setforAPAR9555",
+	"Alias":"Department",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('plan_department')/Hierarchies('plan_department')/Elements('200')"
+		}
+	]
+}

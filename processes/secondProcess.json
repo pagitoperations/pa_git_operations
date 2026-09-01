@@ -1,0 +1,21 @@
+{
+	"@type":"Process",
+	"Name":"secondProcess",
+	"HasSecurityAccess":false,
+	"Code@Code.link":"secondProcess.ti",
+	"DataSource":
+	{
+		"Type":"None"
+	},
+	"Parameters":
+	[
+		{
+			"Name":"P1",
+			"Prompt":"",
+			"Value":0,
+			"Type":"Numeric"
+		}
+	],
+	"Variables":[],
+	"UID": "17802310600007"
+}

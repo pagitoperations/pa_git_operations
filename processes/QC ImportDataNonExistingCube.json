@@ -1,0 +1,21 @@
+{
+	"@type":"Process",
+	"Name":"QC ImportDataNonExistingCube",
+	"HasSecurityAccess":false,
+	"Code@Code.link":"QC ImportDataNonExistingCube.ti",
+	"DataSource":
+	{
+		"Type":"None"
+	},
+	"Parameters":
+	[
+		{
+			"Name":"Value",
+			"Prompt":"",
+			"Value":9.99000000000000021,
+			"Type":"Numeric"
+		}
+	],
+	"Variables":[],
+	"UID": "17802310600005"
+}

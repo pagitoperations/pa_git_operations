@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"davetestdeleteme",
+	"Hierarchies@Code.links":
+	[
+		"davetestdeleteme.hierarchies/davetestdeleteme.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('davetestdeleteme')/Hierarchies('davetestdeleteme')"
+	}
+}

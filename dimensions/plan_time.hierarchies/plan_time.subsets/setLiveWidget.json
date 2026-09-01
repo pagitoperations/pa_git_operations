@@ -1,0 +1,6 @@
+{
+	"@type":"Subset",
+	"Name":"setLiveWidget",
+	"Alias":"Time",
+	"Expression":"{DRILLDOWNMEMBER({[plan_time].[plan_time].[Q1-2003]} , {[plan_time].[plan_time].[Q1-2003]} , RECURSIVE)}"
+}

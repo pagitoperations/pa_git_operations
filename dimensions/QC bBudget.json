@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"QC bBudget",
+	"Hierarchies@Code.links":
+	[
+		"QC bBudget.hierarchies/QC bBudget.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('QC bBudget')/Hierarchies('QC bBudget')"
+	}
+}

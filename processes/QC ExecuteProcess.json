@@ -1,0 +1,13 @@
+{
+	"@type":"Process",
+	"Name":"QC ExecuteProcess",
+	"HasSecurityAccess":false,
+	"Code@Code.link":"QC ExecuteProcess.ti",
+	"DataSource":
+	{
+		"Type":"None"
+	},
+	"Parameters":[],
+	"Variables":[],
+	"UID": "17802310600004"
+}

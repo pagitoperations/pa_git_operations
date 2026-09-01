@@ -1,0 +1,6 @@
+{
+	"@type":"Subset",
+	"Name":"FunctionalTest_1456965918974",
+	"Alias":"AccountName",
+	"Expression":"{[plan_chart_of_accounts].[plan_chart_of_accounts].[Revenue]}"
+}

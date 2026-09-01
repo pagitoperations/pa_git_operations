@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"TVT_noM_fr",
+	"Hierarchies@Code.links":
+	[
+		"TVT_noM_fr.hierarchies/TVT_noM_fr.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('TVT_noM_fr')/Hierarchies('TVT_noM_fr')"
+	}
+}

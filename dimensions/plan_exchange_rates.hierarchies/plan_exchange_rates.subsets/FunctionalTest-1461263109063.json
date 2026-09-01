@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"FunctionalTest-1461263109063",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('plan_exchange_rates')/Hierarchies('plan_exchange_rates')/Elements('local')"
+		}
+	]
+}

@@ -1,0 +1,6 @@
+{
+	"@type":"Subset",
+	"Name":"ASetdynPublic",
+	"Alias":"Time_Polish",
+	"Expression":"{[plan_time].[plan_time].LEVELS(0).MEMBERS}"
+}

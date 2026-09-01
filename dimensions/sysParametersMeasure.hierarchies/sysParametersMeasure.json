@@ -1,0 +1,12 @@
+{
+	"@type":"Hierarchy",
+	"Name":"sysParametersMeasure",
+	"Elements":
+	[
+		{
+			"Name":"String",
+			"Type":"String"
+		}
+	],
+	"Subsets@Code.links":[]
+}

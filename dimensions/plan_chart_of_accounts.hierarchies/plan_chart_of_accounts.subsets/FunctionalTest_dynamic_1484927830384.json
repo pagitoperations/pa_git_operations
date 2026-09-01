@@ -1,0 +1,6 @@
+{
+	"@type":"Subset",
+	"Name":"FunctionalTest_dynamic_1484927830384",
+	"Alias":"AccountName",
+	"Expression":"{HIERARCHIZE(TM1SUBSETALL([plan_chart_of_accounts]))}"
+}

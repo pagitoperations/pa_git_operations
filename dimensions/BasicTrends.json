@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"BasicTrends",
+	"Hierarchies@Code.links":
+	[
+		"BasicTrends.hierarchies/BasicTrends.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('BasicTrends')/Hierarchies('BasicTrends')"
+	}
+}

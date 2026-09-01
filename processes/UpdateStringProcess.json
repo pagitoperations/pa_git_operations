@@ -1,0 +1,21 @@
+{
+	"@type":"Process",
+	"Name":"UpdateStringProcess",
+	"HasSecurityAccess":false,
+	"Code@Code.link":"UpdateStringProcess.ti",
+	"DataSource":
+	{
+		"Type":"None"
+	},
+	"Parameters":
+	[
+		{
+			"Name":"Currency",
+			"Prompt":"Enter Currency Format",
+			"Value":"CAD",
+			"Type":"String"
+		}
+	],
+	"Variables":[],
+	"UID": "178023106000011"
+}

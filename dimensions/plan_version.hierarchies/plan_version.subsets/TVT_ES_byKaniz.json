@@ -1,0 +1,6 @@
+{
+	"@type":"Subset",
+	"Name":"TVT_ES_byKaniz",
+	"Alias":"VersionName",
+	"Expression":"{TM1FILTERBYLEVEL(HIERARCHIZE(TM1SUBSETALL([plan_version])) , 0)}"
+}

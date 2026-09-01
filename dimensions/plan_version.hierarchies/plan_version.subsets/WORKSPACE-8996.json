@@ -1,0 +1,6 @@
+{
+	"@type":"Subset",
+	"Name":"WORKSPACE-8996",
+	"Alias":"VersionName",
+	"Expression":"{EXCEPT([plan_version].[plan_version].MEMBERS , {[plan_version].[plan_version].[FY 2005 Budget-baseline],[plan_version].[plan_version].[FY 2003 Budget],[plan_version].[plan_version].[FY 2004 Budget],[plan_version].[plan_version].[FY 2005 Budget-upside]})}"
+}

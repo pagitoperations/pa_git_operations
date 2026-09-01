@@ -1,0 +1,14 @@
+{
+	"@type":"Subset",
+	"Name":"Testing_Test",
+	"Alias":"BusinessUnit",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('plan_business_unit')/Hierarchies('plan_business_unit')/Elements('10110')"
+		},
+		{
+			"@id":"Dimensions('plan_business_unit')/Hierarchies('plan_business_unit')/Elements('10120')"
+		}
+	]
+}

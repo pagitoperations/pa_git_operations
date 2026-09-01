@@ -1,0 +1,4 @@
+#region Data
+DimensionHierarchyCreate( «DimName», «NewHierName» );
+
+#endregion

@@ -1,0 +1,13 @@
+{
+	"@type":"Process",
+	"Name":"deleteme",
+	"HasSecurityAccess":false,
+	"Code@Code.link":"deleteme.ti",
+	"DataSource":
+	{
+		"Type":"None"
+	},
+	"Parameters":[],
+	"Variables":[],
+	"UID": "178023105900014"
+}

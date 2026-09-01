@@ -1,0 +1,12 @@
+{
+	"@type":"Hierarchy",
+	"Name":"QC bBudget",
+	"Elements":
+	[
+		{
+			"Name":"Budget",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":[]
+}

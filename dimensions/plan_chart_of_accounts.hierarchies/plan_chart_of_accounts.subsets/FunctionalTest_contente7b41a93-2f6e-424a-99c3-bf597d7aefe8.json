@@ -1,0 +1,6 @@
+{
+	"@type":"Subset",
+	"Name":"FunctionalTest_contente7b41a93-2f6e-424a-99c3-bf597d7aefe8",
+	"Alias":"AccountName",
+	"Expression":"{TM1SUBSETALL([plan_chart_of_accounts]),[plan_chart_of_accounts].[plan_chart_of_accounts].[Net Operating Income]}"
+}

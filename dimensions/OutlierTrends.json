@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"OutlierTrends",
+	"Hierarchies@Code.links":
+	[
+		"OutlierTrends.hierarchies/OutlierTrends.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('OutlierTrends')/Hierarchies('OutlierTrends')"
+	}
+}

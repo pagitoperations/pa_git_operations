@@ -1,0 +1,14 @@
+{
+	"@type":"Subset",
+	"Name":"ns1",
+	"Alias":"AccountName",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('Revenue')"
+		},
+		{
+			"@id":"Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('COS')"
+		}
+	]
+}

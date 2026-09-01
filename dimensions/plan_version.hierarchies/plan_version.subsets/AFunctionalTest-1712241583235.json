@@ -1,0 +1,14 @@
+{
+	"@type":"Subset",
+	"Name":"AFunctionalTest-1712241583235",
+	"Alias":"VersionName",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('plan_version')/Hierarchies('plan_version')/Elements('FY 2004 Budget')"
+		},
+		{
+			"@id":"Dimensions('plan_version')/Hierarchies('plan_version')/Elements('FY 2004 Forecast')"
+		}
+	]
+}

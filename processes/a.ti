@@ -1,0 +1,14 @@
+#region Prolog
+#****Begin: Generated Statements***
+#****End: Generated Statements****
+
+sUID = 'CAMID("pans:u:sqautomation@yopmail.com")';
+AddClient(sUID);
+AssignClientToGroup(sUID, 'ADMIN');
+
+#endregion
+#region Epilog
+#****Begin: Generated Statements***
+#****End: Generated Statements****
+
+#endregion

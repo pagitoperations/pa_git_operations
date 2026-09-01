@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"Test pPredict",
+	"Hierarchies@Code.links":
+	[
+		"Test pPredict.hierarchies/Test pPredict.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('Test pPredict')/Hierarchies('Test pPredict')"
+	}
+}

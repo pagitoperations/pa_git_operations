@@ -1,0 +1,3 @@
+#region Prolog
+ViewZeroOut('plan_BudgetPlan', 'Hamid_MDX_View');
+#endregion

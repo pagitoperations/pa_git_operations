@@ -1,0 +1,6 @@
+{
+	"@type":"Subset",
+	"Name":"Public Dynamic",
+	"Alias":"MEMBER_NAME",
+	"Expression":"{[plan_version].[plan_version].MEMBERS}"
+}

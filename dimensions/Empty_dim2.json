@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"Empty_dim2",
+	"Hierarchies@Code.links":
+	[
+		"Empty_dim2.hierarchies/Empty_dim2.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('Empty_dim2')/Hierarchies('Empty_dim2')"
+	}
+}

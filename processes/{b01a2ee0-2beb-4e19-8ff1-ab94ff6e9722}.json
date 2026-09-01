@@ -1,0 +1,37 @@
+{
+	"@type":"Process",
+	"Name":"{b01a2ee0-2beb-4e19-8ff1-ab94ff6e9722}",
+	"HasSecurityAccess":false,
+	"Code@Code.link":"{b01a2ee0-2beb-4e19-8ff1-ab94ff6e9722}.ti",
+	"DataSource":
+	{
+		"Type":"ASCII",
+		"dataSourceNameForServer":"model_upload/100members2.csv",
+		"dataSourceNameForClient":"",
+		"asciiHeaderRecords":1,
+		"asciiQuoteCharacter":"\"",
+		"asciiDecimalSeparator":".",
+		"asciiThousandSeparator":",",
+		"asciiDelimiterType":"Character",
+		"asciiDelimiterChar":","
+	},
+	"Parameters":[],
+	"Variables":
+	[
+		{
+			"Name":"vLevel0",
+			"Type":"String",
+			"Position":2,
+			"StartByte":0,
+			"EndByte":0
+		},
+		{
+			"Name":"vLevel1",
+			"Type":"String",
+			"Position":1,
+			"StartByte":0,
+			"EndByte":0
+		}
+	],
+	"UID": "178023106000013"
+}

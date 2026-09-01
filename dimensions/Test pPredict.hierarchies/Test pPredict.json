@@ -1,0 +1,16 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Test pPredict",
+	"Elements":
+	[
+		{
+			"Name":"2131",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"31321",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":[]
+}

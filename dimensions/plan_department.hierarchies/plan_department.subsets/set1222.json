@@ -1,0 +1,6 @@
+{
+	"@type":"Subset",
+	"Name":"set1222",
+	"Alias":"Caption",
+	"Expression":"{[plan_department].[plan_department].MEMBERS}"
+}

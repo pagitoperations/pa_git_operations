@@ -1,0 +1,22 @@
+#region Prolog
+IF( ViewExists ('plan_BudgetPlan', 'C384601_MDX_View') = 1);
+            ViewDestroy ( 'plan_BudgetPlan', 'C384601_MDX_View' );
+             ENDIF;
+         ViewCreateByMDX('plan_BudgetPlan', 'C384601_MDX_View',
+                             
+                                 'SELECT
+                                          
+                                                        { Tm1FilterByLevel( Descendants( [plan_time].[Q1-2005] ), 0) }
+                                                                      *{ Tm1FilterByLevel( Descendants( [plan_business_unit].[UK] ), 0) }
+                                                                                    *{ Tm1FilterByLevel( Descendants( [plan_department].[Direct] ), 0) }
+                                                                                                  *{ Tm1FilterByLevel( Tm1SubsetAll( [plan_chart_of_accounts] ), 0) }
+                                                                                                             ON COLUMNS,
+                                                                                                                      
+                                                                                                                                    { TM1FILTERBYLEVEL(TM1SUBSETALL([plan_version]) , 0) }
+                                                                                                                                                  * { Tm1FilterByLevel( Descendants( [plan_exchange_rates].[local] ), 0) }
+                                                                                                                                                                * { Tm1FilterByLevel( Descendants( [plan_source].[input] ), 0) }
+                                                                                                                                                                           ON ROWS
+                                                                                                                                                                                       FROM
+                                                                                                                                                                                                  [plan_BudgetPlan]
+                                                                                                                                                                                                           ');
+#endregion

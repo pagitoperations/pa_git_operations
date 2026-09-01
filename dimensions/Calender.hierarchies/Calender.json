@@ -1,0 +1,36 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Calender",
+	"Elements":
+	[
+		{
+			"Name":"Current Month",
+			"Type":"String"
+		},
+		{
+			"Name":"Current Quarter",
+			"Type":"String"
+		},
+		{
+			"Name":"Current Year",
+			"Type":"String"
+		},
+		{
+			"Name":"Current Version",
+			"Type":"String"
+		},
+		{
+			"Name":"Compare Against",
+			"Type":"String"
+		},
+		{
+			"Name":"Fcst Month",
+			"Type":"String"
+		},
+		{
+			"Name":"Model Version",
+			"Type":"String"
+		}
+	],
+	"Subsets@Code.links":[]
+}

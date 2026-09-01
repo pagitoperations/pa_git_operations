@@ -1,0 +1,16 @@
+{
+	"@type":"Hierarchy",
+	"Name":"stringdim1",
+	"Elements":
+	[
+		{
+			"Name":"str1",
+			"Type":"String"
+		},
+		{
+			"Name":"str2",
+			"Type":"String"
+		}
+	],
+	"Subsets@Code.links":[]
+}
