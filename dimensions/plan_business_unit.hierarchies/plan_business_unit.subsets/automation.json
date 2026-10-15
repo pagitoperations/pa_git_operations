@@ -1,6 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"automation",
-	"Alias":"BusinessUnit",
-	"Expression":"{EXCEPT(HIERARCHIZE(TM1SUBSETALL([plan_business_unit])) , {[plan_business_unit].[plan_business_unit].[newTestValue],[plan_business_unit].[plan_business_unit].[Driver]})}"
-}
