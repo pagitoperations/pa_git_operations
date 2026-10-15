@@ -1,6 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"016uxuk57b9",
-	"Alias":"Time",
-	"Expression":"{[plan_time].[plan_time].[Jan-2004],[plan_time].[plan_time].[Feb-2004],[plan_time].[plan_time].[Mar-2004],[plan_time].[plan_time].[Q2-2004],[plan_time].[plan_time].[Apr-2004],[plan_time].[plan_time].[May-2004],[plan_time].[plan_time].[Jun-2004],[plan_time].[plan_time].[Q3-2004],[plan_time].[plan_time].[Jul-2004],[plan_time].[plan_time].[Aug-2004],[plan_time].[plan_time].[Sep-2004],[plan_time].[plan_time].[Q4-2004],[plan_time].[plan_time].[Oct-2004],[plan_time].[plan_time].[Nov-2004],[plan_time].[plan_time].[Dec-2004]}"
-}
