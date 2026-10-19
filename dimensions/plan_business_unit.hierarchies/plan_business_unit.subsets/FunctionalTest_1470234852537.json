@@ -1,6 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"FunctionalTest_1470234852537",
-	"Alias":"BusinessUnit",
-	"Expression":"{EXCEPT(HIERARCHIZE(TM1SUBSETALL([plan_business_unit])) , {[plan_business_unit].[plan_business_unit].[10210]})}"
-}
