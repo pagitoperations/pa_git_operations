@@ -1,6 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"save test 1",
-	"Alias":"AccountName",
-	"Expression":"{EXCEPT(TM1SUBSETALL([plan_chart_of_accounts]) , {[plan_chart_of_accounts].[plan_chart_of_accounts].[61010]})}"
-}

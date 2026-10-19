@@ -1,6 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"Automated Set with ^ Key",
-	"Alias":"AccountName",
-	"Expression":"{{[plan_chart_of_accounts].[plan_chart_of_accounts].MEMBERS}}"
-}
