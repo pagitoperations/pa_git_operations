@@ -1,0 +1,18 @@
+{
+	"@type":"Cube",
+	"Name":"Calender",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('Calender')"
+		},
+		{
+			"@id":"Dimensions('String')"
+		}
+	],
+	"AllowPersistentHolds":true,
+	"Views@Code.links":
+	[
+		"Calender.views/All.json"
+	]
+}
