@@ -1,6 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"test set with spaces",
-	"Alias":"MEMBER_NAME",
-	"Expression":"{[plan_business_unit].[plan_business_unit].MEMBERS}"
-}

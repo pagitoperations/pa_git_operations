@@ -1,6 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"hca1bqk6gvi",
-	"Alias":"BusinessUnit_Japanese",
-	"Expression":"{HIERARCHIZE(TM1SUBSETALL([plan_business_unit]))}"
-}
