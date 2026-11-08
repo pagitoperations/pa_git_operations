@@ -1,6 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"bookfordefect8988",
-	"Alias":"BusinessUnit",
-	"Expression":"{TM1SubsetToSet([plan_business_unit].[plan_business_unit] , \"Static_8988\" , \"public\")}"
-}
