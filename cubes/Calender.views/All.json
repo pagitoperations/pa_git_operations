@@ -1,0 +1,35 @@
+{
+	"@type":"NativeView",
+	"Name":"All",
+	"Columns":
+	[
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('String')/Hierarchies('String')"
+				},
+				"Expression":"TM1SubsetAll([String])"
+			}
+		}
+	],
+	"Rows":
+	[
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('Calender')/Hierarchies('Calender')"
+				},
+				"Expression":"TM1SubsetAll([Calender])"
+			}
+		}
+	],
+	"Titles":[],
+	"SuppressEmptyColumns":false,
+	"SuppressEmptyRows":false,
+	"FormatString":"0.00",
+	"ViewExtractSkipRuleValues": true
+}

@@ -1,6 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"filterSc83",
-	"Alias":"MEMBER_NAME",
-	"Expression":"{TM1FILTERBYPATTERN(TM1SubsetToSet([plan_department].[plan_department] , \"Default\" , \"public\") , \"*10*\" , \"MEMBER_NAME\")}"
-}
