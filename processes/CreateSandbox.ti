@@ -1,3 +1,0 @@
-#region Prolog
-ServerSandboxCreate('NewSandBox1');
-#endregion
