@@ -1,6 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"publicPlandepartment",
-	"Alias":"Department_Russian",
-	"Expression":"{HIERARCHIZE(TM1SUBSETALL([plan_department]))}"
-}
